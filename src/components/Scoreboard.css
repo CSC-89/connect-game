@@ -1,0 +1,13 @@
+.scoreboard {
+    background-color: rgba(220, 148, 54, 0.7);
+    text-align: center;
+    justify-content: center;
+    display: inline;
+    width:  60px;
+    height: 120px;
+    border: 1px solid grey;
+    box-shadow: 3em, 2em, 1em, grey;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 50px; 
+}
